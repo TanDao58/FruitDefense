@@ -1,0 +1,139 @@
+
+E3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 15, 4
+  size: 9, 14
+  orig: 11, 16
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 2, 4
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 56, 26
+  size: 63, 100
+  orig: 65, 102
+  offset: 1, 1
+  index: -1
+Corn
+  rotate: false
+  xy: 286, 10
+  size: 19, 26
+  orig: 21, 28
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 128, 28
+  size: 7, 11
+  orig: 9, 13
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 121, 26
+  size: 5, 9
+  orig: 7, 11
+  offset: 1, 1
+  index: -1
+Hair_1
+  rotate: true
+  xy: 2, 20
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 121, 37
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: false
+  xy: 111, 2
+  size: 32, 22
+  orig: 34, 24
+  offset: 1, 1
+  index: -1
+Hair_4
+  rotate: true
+  xy: 196, 7
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+Hair_5
+  rotate: true
+  xy: 220, 13
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+Hair_6
+  rotate: false
+  xy: 185, 51
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 185, 38
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 26, 6
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 244, 54
+  size: 72, 27
+  orig: 74, 29
+  offset: 1, 1
+  index: -1
+String_1
+  rotate: false
+  xy: 57, 2
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+String_2
+  rotate: true
+  xy: 273, 69
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+Weapon_1
+  rotate: false
+  xy: 286, 38
+  size: 20, 29
+  orig: 22, 31
+  offset: 1, 1
+  index: -1
+Weapon_2
+  rotate: true
+  xy: 145, 4
+  size: 31, 49
+  orig: 33, 51
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5046087811778820846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5046087811778820845}
+  - component: {fileID: 5046087811778820844}
+  m_Layer: 0
+  m_Name: DataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5046087811778820845
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5046087811778820846}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 630.46344, y: 725.7592, z: -837.2101}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5046087811778820844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5046087811778820846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3402f6cde0a36ec428abd89dc7ae26ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelDatas:
+  - waveInfos: []
+    boss: 0
+    bossData:
+      rarity: 0
+      saleCurrency: 0
+      monsterName: 
+      nickName: 
+      decripsion: 
+      demoSprite: 
+      level: 0
+      maxLevel: 0
+      maxhp: 0
+      damage: 0
+      baseDamge: 0
+      baseHp: 0
+      baseRarity: 0
+      attackRange: 0
+      visionRange: 0
+      attackInterval: 0
+      speed: 0
+      shopPrice: 0
+      defend: 0
+      displayHp: 0
+      displayAttack: 0
+      displayCooldown: 0
+    bossSizeFactor: 0
+    startDP: 0
+    increaseEachWaveDP: 0
+    startMaxDP: 0
+    levelName: 
+    gotGem: 0
+    levelIndex: 0
+  monsterAis:
+  - {fileID: 8107604837308059433, guid: 0eb02cb3e55722243b83a1e96fba1f29, type: 3}
+  - {fileID: 8705638611466914003, guid: 7ed993b1f59049f418d6db2d0def7867, type: 3}
+  - {fileID: 1712851070433929873, guid: 4e7aa56f51adbf54f8a71fc9bc970c17, type: 3}
+  - {fileID: 558425593893973419, guid: 734fdfe1da109d6429a15958b5d75274, type: 3}
+  - {fileID: 4624713041904059011, guid: ea611948631d95348b3ba8ae343b4e51, type: 3}
+  - {fileID: 5410507540368299409, guid: e785a3efa149dde48bacb4a77a788ee8, type: 3}
+  - {fileID: 8984516242695880640, guid: 4f73337457a921541ba40abd40a7f4a6, type: 3}
+  - {fileID: 4103550887976559665, guid: 4b1d7e5d42f4846f2b56610938e48b88, type: 3}
+  - {fileID: 3076711242497092274, guid: 5b07137d7c62d47e886229f0e2262238, type: 3}
+  - {fileID: 8582890693494334443, guid: ff3cdf89189294690bfd8ab1ce22a9ed, type: 3}
+  - {fileID: 4953744589040913783, guid: dce8863f931c7e8489fecba37f78c11e, type: 3}
+  - {fileID: 3899712036903339384, guid: a248f81b6aff57a4aa7e9e91df87a4e3, type: 3}
+  - {fileID: 4599325682255470559, guid: 44c8ef09d1afb3645b09506d06837bf0, type: 3}
+  - {fileID: 1713650831702146898, guid: a73fd4d6e71bcac41a030efa37c1a5c7, type: 3}
+  - {fileID: 7249691333646722943, guid: 31fab018bf745354cb00e8ced554aa3e, type: 3}
+  - {fileID: 6178511084314991888, guid: 7bb17a72031441d46a04425e98196e85, type: 3}
+  - {fileID: 5123468202658336687, guid: 7d7aa69d5e8e25f4283a1799501d6dd8, type: 3}
+  - {fileID: 6166215684615677810, guid: 3cf44a30b2c4db14a8b8c2d2e0529d9d, type: 3}
+  - {fileID: 5151148783028978012, guid: 0085b3ffa5d005845a7c68288fb1b2b5, type: 3}
+  - {fileID: 972291496241231547, guid: 5df0eec67635cb8428b098f23d22a0e1, type: 3}
+  - {fileID: 1935255995751511050, guid: 356fea0ee49f8874cbf8b01fe18771b2, type: 3}
+  - {fileID: 2837513070117879215, guid: 7ae15c7e0429af043891e7195bce6b2a, type: 3}
+  - {fileID: 6999758610707129575, guid: c7419f624bb347547805715128413058, type: 3}
+  - {fileID: 7227018993716688318, guid: 3f0421181514d93489f773c687d14b58, type: 3}
+  - {fileID: 5284468655902248670, guid: 75f2bbb5e63c0a4479b44ef729f4900c, type: 3}
+  - {fileID: 9014162495629362026, guid: ccabf02550d121547a2ac9c06fe455e7, type: 3}
+  - {fileID: 8853217402479354193, guid: 1428a34edeb887e4da47670e6ccb443d, type: 3}
+  testPortraits: []
+  testMonsterDatas: []
+  mapDatas: []
+  allyNames: []
+  enemyNames: []
+  saleHero: []
+  unlockHero: []
+  unlockLevels: 

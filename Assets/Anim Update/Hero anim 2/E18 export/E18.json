@@ -1,0 +1,277 @@
+{
+"skeleton": {
+	"hash": "qLylIBxl4FI5/NAw57hX3aqCjag",
+	"spine": "3.8.99",
+	"x": -157.2,
+	"y": -27.87,
+	"width": 255.25,
+	"height": 278.39,
+	"images": "./images/",
+	"audio": "I:/My Drive/DRIVE-BACK-UP/CA NHAN/THE PROJECT/6-Tran Dynasty/1 - New ANIM/HERO/SSR Hero/E18"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Body", "parent": "root", "length": 122.16, "rotation": 90.24, "x": -1.06, "y": 0.96 },
+	{ "name": "Smoke 1", "parent": "root", "x": -69.8, "y": 71.52 },
+	{ "name": "Face", "parent": "Body", "x": 117.22, "y": -41.81 },
+	{ "name": "Eye", "parent": "Face", "x": 0.05, "y": 9.84 },
+	{ "name": "Mouth_Close", "parent": "Face", "length": 19.2, "rotation": -177.48, "x": -11.56, "y": -4.44 },
+	{ "name": "Leg_2", "parent": "Body", "length": 30.01, "rotation": 131.39, "x": 24.55, "y": 55.74 },
+	{ "name": "Leg_1", "parent": "Body", "length": 24.72, "rotation": -179.77, "x": 17.64, "y": -10.94 },
+	{ "name": "Leg_3", "parent": "Body", "length": 27.75, "rotation": -162.95, "x": 32.63, "y": -61.84 },
+	{ "name": "Shadow", "parent": "root", "x": -1.43, "y": -23.4 },
+	{ "name": "Smoke 2", "parent": "root", "rotation": 90.24, "x": 2.06, "y": 75.87 },
+	{ "name": "Mouth_Close4", "parent": "Face", "rotation": -177.48, "x": -7.02, "y": -3.85 },
+	{ "name": "Mouth_Close2", "parent": "Mouth_Close4", "length": 13.56, "rotation": -73.03, "x": 4.32, "y": -0.13 },
+	{ "name": "Mouth_Close3", "parent": "Mouth_Close4", "length": 11.38, "rotation": 69.23, "x": 3.64, "y": 0.34 }
+],
+"slots": [
+	{ "name": "Shadow", "bone": "Shadow", "attachment": "Shadow" },
+	{ "name": "smoke 1", "bone": "Smoke 1", "attachment": "magic smoke/magic smoke_00" },
+	{ "name": "Tail", "bone": "root", "color": "ffffff23" },
+	{ "name": "Leg_3", "bone": "Leg_3", "attachment": "Leg_3" },
+	{ "name": "Body", "bone": "Body", "attachment": "Body" },
+	{ "name": "Leg_2", "bone": "Leg_2", "attachment": "Leg_2" },
+	{ "name": "Leg_1", "bone": "Leg_1", "attachment": "Leg_1" },
+	{ "name": "Eye", "bone": "Eye", "attachment": "Eye" },
+	{ "name": "Mouth_Close", "bone": "Mouth_Close", "attachment": "Mouth_Close" },
+	{ "name": "Smoke 1", "bone": "Smoke 1", "attachment": "Smoke 1" },
+	{ "name": "Smoke 2", "bone": "Smoke 2", "attachment": "Smoke 2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Body": {
+				"Body": { "x": 78.17, "y": 0.57, "rotation": -90.24, "width": 200, "height": 160 }
+			},
+			"Eye": {
+				"Eye": { "x": -6.24, "y": -2.1, "rotation": -90.24, "width": 99, "height": 28 }
+			},
+			"Leg_1": {
+				"Leg_1": { "x": 12.01, "y": -0.36, "rotation": 89.53, "width": 31, "height": 31 }
+			},
+			"Leg_2": {
+				"Leg_2": { "x": 14.87, "y": 2.36, "rotation": 138.37, "width": 37, "height": 33 }
+			},
+			"Leg_3": {
+				"Leg_3": { "x": 12.34, "y": 0.24, "rotation": 72.71, "width": 35, "height": 40 }
+			},
+			"Mouth_Close": {
+				"Mouth_Close": {
+					"type": "mesh",
+					"uvs": [ 1, 0.2884, 1, 1, 0, 1, 0, 0.29732, 0, 0, 0.25189, 0, 0.52703, 0, 0.82663, 0, 1, 0, 0.22743, 0.45336, 0.53315, 0.23044, 0.78078, 0.43107, 0.23661, 0.19032, 0.82052, 0.14574 ],
+					"triangles": [ 13, 6, 7, 10, 6, 13, 13, 7, 8, 0, 13, 8, 11, 10, 13, 11, 13, 0, 11, 0, 1, 12, 4, 5, 3, 4, 12, 9, 3, 12, 12, 10, 9, 6, 12, 5, 10, 12, 6, 2, 3, 9, 9, 10, 11, 2, 9, 1, 1, 9, 11 ],
+					"vertices": [ 2, 5, 3.38, 16.16, 0.02202, 13, 16.68, 1.73, 0.97798, 1, 5, 20.44, 15.34, 1, 1, 5, 18.76, -19.62, 1, 2, 5, 1.91, -18.81, 0.00175, 12, 18.12, -3.29, 0.99825, 2, 12, 15.71, -10, 0.99991, 13, -18.75, -2.51, 9.0E-5, 2, 12, 7.41, -7.03, 0.93038, 13, -10.36, 0.21, 0.06962, 2, 12, -1.65, -3.78, 0.06778, 13, -1.21, 3.19, 0.93222, 1, 13, 8.77, 6.43, 1, 1, 13, 14.54, 8.31, 1, 1, 12, 11.89, 2.93, 1, 1, 12, 0.01, 1.5, 1, 1, 13, 10.44, -3.9, 1, 2, 12, 9.46, -2.91, 0.98401, 13, -9.46, -4.3, 0.01599, 1, 13, 9.64, 3.04, 1 ],
+					"hull": 9,
+					"edges": [ 2, 4, 4, 6, 6, 8, 6, 18, 18, 20, 20, 22, 2, 0, 0, 16, 22, 0, 8, 10, 14, 16, 10, 12, 12, 14 ],
+					"width": 35,
+					"height": 24
+				}
+			},
+			"Shadow": {
+				"Shadow": { "x": 1.98, "y": 32.03, "width": 195, "height": 73 }
+			},
+			"Smoke 1": {
+				"Smoke 1": { "type": "point", "rotation": 90 }
+			},
+			"Smoke 2": {
+				"Smoke 2": { "type": "point" }
+			},
+			"Tail": {
+				"Tail": { "x": -40.95, "y": 181.13, "width": 110, "height": 138 }
+			},
+			"smoke 1": {
+				"magic smoke/magic smoke_00": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_02": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_04": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_06": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_08": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_10": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_12": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_14": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_16": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_18": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_20": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_22": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_24": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_26": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_28": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_30": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_32": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 },
+				"magic smoke/magic smoke_34": { "x": -13.4, "y": 79.5, "width": 148, "height": 199 }
+			}
+		}
+	}
+],
+"events": {
+	"OnUlti": {}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"smoke 1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "magic smoke/magic smoke_02" },
+					{ "time": 0.1333, "name": "magic smoke/magic smoke_04" },
+					{ "time": 0.2, "name": "magic smoke/magic smoke_06" },
+					{ "time": 0.2667, "name": "magic smoke/magic smoke_08" },
+					{ "time": 0.3333, "name": "magic smoke/magic smoke_10" },
+					{ "time": 0.4, "name": "magic smoke/magic smoke_12" },
+					{ "time": 0.4667, "name": "magic smoke/magic smoke_14" },
+					{ "time": 0.5333, "name": "magic smoke/magic smoke_16" },
+					{ "time": 0.6, "name": "magic smoke/magic smoke_18" },
+					{ "time": 0.6667, "name": "magic smoke/magic smoke_20" },
+					{ "time": 0.7333, "name": "magic smoke/magic smoke_22" },
+					{ "time": 0.8, "name": "magic smoke/magic smoke_24" },
+					{ "time": 0.8667, "name": "magic smoke/magic smoke_26" },
+					{ "time": 0.9333, "name": "magic smoke/magic smoke_28" },
+					{ "time": 1, "name": "magic smoke/magic smoke_30" },
+					{ "time": 1.0667, "name": "magic smoke/magic smoke_32" },
+					{ "time": 1.1333, "name": "magic smoke/magic smoke_34" },
+					{ "time": 1.2, "name": "magic smoke/magic smoke_00" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "x": 0.914, "y": 1.08, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2 }
+				]
+			},
+			"Shadow": {
+				"scale": [
+					{ "x": 0.914, "y": 1.08, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2, "x": 0.914, "y": 1.08 }
+				]
+			},
+			"Face": {
+				"translate": [
+					{ "x": -3.32, "y": 0.01, "curve": 0.382, "c2": 0.56, "c3": 0.738 },
+					{ "time": 0.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": -10.78, "y": 0.04, "curve": 0.244, "c3": 0.645, "c4": 0.59 },
+					{ "time": 1.2, "x": -3.32, "y": 0.01 }
+				]
+			},
+			"Mouth_Close": {
+				"translate": [
+					{ "x": -8.24, "y": 0.03, "curve": 0.343, "c2": 0.37, "c3": 0.757 },
+					{ "time": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0333, "x": -10.78, "y": 0.04, "curve": 0.27, "c3": 0.618, "c4": 0.41 },
+					{ "time": 1.2, "x": -8.24, "y": 0.03 }
+				]
+			}
+		}
+	},
+	"Ulti": {
+		"slots": {
+			"Body": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Eye": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Leg_1": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Leg_2": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Leg_3": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Mouth_Close": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Shadow": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Tail": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffff23" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"smoke 1": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0667, "name": "magic smoke/magic smoke_02" },
+					{ "time": 0.1333, "name": "magic smoke/magic smoke_04" },
+					{ "time": 0.2, "name": "magic smoke/magic smoke_06" },
+					{ "time": 0.2667, "name": "magic smoke/magic smoke_08" },
+					{ "time": 0.3333, "name": "magic smoke/magic smoke_10" },
+					{ "time": 0.4, "name": "magic smoke/magic smoke_12" },
+					{ "time": 0.4667, "name": "magic smoke/magic smoke_14" },
+					{ "time": 0.5333, "name": "magic smoke/magic smoke_16" },
+					{ "time": 0.6, "name": "magic smoke/magic smoke_18" },
+					{ "time": 0.6667, "name": "magic smoke/magic smoke_20" },
+					{ "time": 0.7333, "name": "magic smoke/magic smoke_22" },
+					{ "time": 0.8, "name": "magic smoke/magic smoke_24" },
+					{ "time": 0.8667, "name": "magic smoke/magic smoke_26" },
+					{ "time": 0.9333, "name": "magic smoke/magic smoke_28" },
+					{ "time": 1, "name": "magic smoke/magic smoke_30" },
+					{ "time": 1.0667, "name": "magic smoke/magic smoke_32" },
+					{ "time": 1.1333, "name": "magic smoke/magic smoke_34" },
+					{ "time": 1.2, "name": "magic smoke/magic smoke_00" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"translate": [
+					{ "time": 0.1667, "curve": 0.314, "c2": 0.85, "c3": 0.75 },
+					{ "time": 0.4, "y": 91.3, "curve": 0.25, "c3": 0.826, "c4": 0 },
+					{ "time": 0.5 }
+				],
+				"scale": [
+					{ "curve": 0.263, "c2": 0.56, "c3": 0.598 },
+					{ "time": 0.1667, "x": 0.852, "y": 1.158, "curve": 0.248, "c3": 0.826, "c4": 0 },
+					{ "time": 0.2667, "x": 1.601, "y": 0.886, "curve": 0.263, "c2": 0.56, "c3": 0.598 },
+					{ "time": 0.4, "curve": 0.248, "c3": 0.826, "c4": 0 },
+					{ "time": 0.5, "x": 0.688, "y": 1.367, "curve": 0.263, "c2": 0.56, "c3": 0.598 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Shadow": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 1.249, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 0.886, "curve": 0.25, "c3": 0.806, "c4": 0.15 },
+					{ "time": 0.5, "x": 1.36, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.5, "name": "OnUlti" }
+		]
+	}
+}
+}

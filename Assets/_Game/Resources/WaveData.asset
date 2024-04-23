@@ -1,0 +1,682 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912c0a9acf2af334bac2fe7a145f797b, type: 3}
+  m_Name: WaveData
+  m_EditorClassIdentifier: 
+  levelData:
+  - waveInfos:
+    - restTime: 1
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 2
+    boss: 2
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 1500
+      damage: 100
+      attackRange: 1
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.5
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 100
+    increaseEachWaveDP: 0
+    startMaxDP: 300
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    boss: 6
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 1500
+      damage: 10
+      attackRange: 10
+      visionRange: 50
+      attackInterval: 0.05
+      speed: 0.5
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 250
+    increaseEachWaveDP: 0
+    startMaxDP: 500
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    boss: 3
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 50
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 0.5
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 500
+    increaseEachWaveDP: 0
+    startMaxDP: 3000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 2
+    boss: 4
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 500
+      damage: 100
+      attackRange: 1
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.75
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1000
+    increaseEachWaveDP: 0
+    startMaxDP: 1500
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    boss: 11
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 50
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 0.05
+      speed: 2
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 2000
+    increaseEachWaveDP: 0
+    startMaxDP: 4000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 3000
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 1.5
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    boss: 7
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 50
+      attackRange: 10
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.5
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 5000
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 2
+    boss: 8
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2500
+      damage: 100
+      attackRange: 10
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.5
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 5000
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 5
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 2
+    boss: 9
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 1500
+      damage: 10
+      attackRange: 5
+      visionRange: 50
+      attackInterval: 0.5
+      speed: 0.2
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 2500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.2
+      maxSpawnTime: 0.3
+    boss: 1
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 10
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 1
+      speed: 0.5
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 
+  - waveInfos:
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 1
+      maxSpawnTime: 3
+    - restTime: 3
+      minSpawnTime: 0.5
+      maxSpawnTime: 1.5
+    boss: 10
+    bossData:
+      rarity: 0
+      monsterName: 
+      demoSprite: 
+      level: 0
+      maxhp: 2000
+      damage: 100
+      attackRange: 2
+      visionRange: 50
+      attackInterval: 2
+      speed: 0.3
+      shopPrice: 400
+      defend: 1
+    bossSizeFactor: 2
+    startDP: 1500
+    increaseEachWaveDP: 0
+    startMaxDP: 5000
+    levelName: 

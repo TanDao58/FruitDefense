@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "~/Google Drive/Juicyro/E_015/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_hand_3", "bone": "root", "attachment": "R_hand_3" },
+	{ "name": "R_hand_2", "bone": "root", "attachment": "R_hand_2" },
+	{ "name": "spear", "bone": "root", "attachment": "spear" },
+	{ "name": "R_hand_1", "bone": "root", "attachment": "R_hand_1" },
+	{ "name": "R_leg_2", "bone": "root", "attachment": "R_leg_2" },
+	{ "name": "R_leg_1", "bone": "root", "attachment": "R_leg_1" },
+	{ "name": "L_leg_2", "bone": "root", "attachment": "L_leg_2" },
+	{ "name": "L_leg_1", "bone": "root", "attachment": "L_leg_1" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "shieldv", "bone": "root", "attachment": "shieldv" }
+],
+"skins": {
+	"default": {
+		"R_hand_3": {
+			"R_hand_3": { "x": 51, "y": -114, "width": 14, "height": 14 }
+		},
+		"R_hand_2": {
+			"R_hand_2": { "x": 42, "y": -106, "width": 20, "height": 20 }
+		},
+		"spear": {
+			"spear": { "x": 35, "y": -82, "width": 40, "height": 140 }
+		},
+		"R_hand_1": {
+			"R_hand_1": { "x": 39.5, "y": -95, "width": 23, "height": 24 }
+		},
+		"R_leg_2": {
+			"R_leg_2": { "x": 73.5, "y": -140.5, "width": 9, "height": 15 }
+		},
+		"R_leg_1": {
+			"R_leg_1": { "x": 71, "y": -147, "width": 16, "height": 14 }
+		},
+		"L_leg_2": {
+			"L_leg_2": { "x": 90.5, "y": -140, "width": 9, "height": 14 }
+		},
+		"L_leg_1": {
+			"L_leg_1": { "x": 93, "y": -146.5, "width": 16, "height": 13 }
+		},
+		"body": {
+			"body": { "x": 83, "y": -102, "width": 68, "height": 78 }
+		},
+		"head": {
+			"head": { "x": 79, "y": -106.5, "width": 38, "height": 51 }
+		},
+		"shieldv": {
+			"shieldv": { "x": 116.5, "y": -116, "width": 49, "height": 74 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,84 @@
+{ "skeleton": { "images": "~/Google Drive/Juicyro/E01/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 17", "bone": "root" },
+	{ "name": "gun", "bone": "root", "attachment": "gun" },
+	{ "name": "R_leg", "bone": "root", "attachment": "R_leg" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "tube_2", "bone": "root", "attachment": "tube_2" },
+	{ "name": "tube_1", "bone": "root", "attachment": "tube_1" },
+	{ "name": "stem", "bone": "root", "attachment": "stem" },
+	{ "name": "leaf", "bone": "root", "attachment": "leaf" },
+	{ "name": "mount", "bone": "root", "attachment": "mount" },
+	{ "name": "L_eyes_contact", "bone": "root", "attachment": "L_eyes_contact" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "L_eyebrow", "bone": "root", "attachment": "L_eyebrow" },
+	{ "name": "R_eyes_contact", "bone": "root", "attachment": "R_eyes_contact" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "R_eyebrow", "bone": "root", "attachment": "R_eyebrow" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" },
+	{ "name": "L_leg", "bone": "root", "attachment": "L_leg" }
+],
+"skins": {
+	"default": {
+		"Layer 17": {
+			"Layer 17": { "x": 141.5, "y": -135, "width": 285, "height": 272 }
+		},
+		"gun": {
+			"gun": { "x": 125, "y": -123, "width": 154, "height": 84 }
+		},
+		"R_leg": {
+			"R_leg": { "x": 172, "y": -186, "width": 14, "height": 28 }
+		},
+		"body": {
+			"body": { "x": 196, "y": -131.5, "width": 112, "height": 101 }
+		},
+		"tube_2": {
+			"tube_2": { "x": 259, "y": -128.5, "width": 28, "height": 31 }
+		},
+		"tube_1": {
+			"tube_1": { "x": 254, "y": -141.5, "width": 38, "height": 27 }
+		},
+		"stem": {
+			"stem": { "x": 200, "y": -86, "width": 46, "height": 38 }
+		},
+		"leaf": {
+			"leaf": { "x": 228, "y": -84.5, "width": 52, "height": 29 }
+		},
+		"mount": {
+			"mount": { "x": 166, "y": -154.5, "width": 22, "height": 13 }
+		},
+		"L_eyes_contact": {
+			"L_eyes_contact": { "x": 184, "y": -143.5, "width": 26, "height": 25 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 180, "y": -145.5, "width": 10, "height": 9 }
+		},
+		"L_eyebrow": {
+			"L_eyebrow": { "x": 180, "y": -135, "width": 22, "height": 20 }
+		},
+		"R_eyes_contact": {
+			"R_eyes_contact": { "x": 147.5, "y": -143.5, "width": 19, "height": 25 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 148, "y": -145, "width": 8, "height": 10 }
+		},
+		"R_eyebrow": {
+			"R_eyebrow": { "x": 151, "y": -134.5, "width": 16, "height": 21 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 138, "y": -164, "width": 28, "height": 26 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 158.5, "y": -170.5, "width": 31, "height": 13 }
+		},
+		"L_leg": {
+			"L_leg": { "x": 206, "y": -186, "width": 14, "height": 28 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

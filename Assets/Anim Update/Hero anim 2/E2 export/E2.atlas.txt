@@ -1,0 +1,76 @@
+
+E2.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 133, 5
+  size: 26, 18
+  orig: 28, 20
+  offset: 1, 1
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 169, 17
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 169, 28
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 161, 8
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 177, 8
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: true
+  xy: 193, 5
+  size: 10, 7
+  orig: 12, 9
+  offset: 1, 1
+  index: -1
+Shadow
+  rotate: true
+  xy: 205, 5
+  size: 48, 19
+  orig: 50, 21
+  offset: 1, 1
+  index: -1
+Sword_1
+  rotate: true
+  xy: 66, 3
+  size: 50, 65
+  orig: 52, 67
+  offset: 1, 1
+  index: -1
+Sword_2
+  rotate: true
+  xy: 133, 25
+  size: 28, 34
+  orig: 30, 36
+  offset: 1, 1
+  index: -1

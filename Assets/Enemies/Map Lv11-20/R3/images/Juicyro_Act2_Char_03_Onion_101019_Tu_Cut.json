@@ -1,0 +1,72 @@
+{ "skeleton": { "images": "/e/new/game_juicyro/E_204/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "L_leg_2", "bone": "root", "attachment": "L_leg_2" },
+	{ "name": "L_leg_1", "bone": "root", "attachment": "L_leg_1" },
+	{ "name": "R_leg_2", "bone": "root", "attachment": "R_leg_2" },
+	{ "name": "R_leg_1", "bone": "root", "attachment": "R_leg_1" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "R_hand_1", "bone": "root", "attachment": "R_hand_1" },
+	{ "name": "jacket2", "bone": "root", "attachment": "jacket2" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "R_eyebrow", "bone": "root", "attachment": "R_eyebrow" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "L_eyebrow", "bone": "root", "attachment": "L_eyebrow" },
+	{ "name": "jacket", "bone": "root", "attachment": "jacket" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" }
+],
+"skins": {
+	"default": {
+		"L_leg_2": {
+			"L_leg_2": { "x": 149.5, "y": -288, "width": 13, "height": 18 }
+		},
+		"L_leg_1": {
+			"L_leg_1": { "x": 147.5, "y": -275.5, "width": 9, "height": 19 }
+		},
+		"R_leg_2": {
+			"R_leg_2": { "x": 188.5, "y": -288, "width": 13, "height": 18 }
+		},
+		"R_leg_1": {
+			"R_leg_1": { "x": 186.5, "y": -275.5, "width": 9, "height": 19 }
+		},
+		"weapon": {
+			"weapon": { "x": 110.5, "y": -230, "width": 147, "height": 144 }
+		},
+		"R_hand_1": {
+			"R_hand_1": { "x": 106.5, "y": -236, "width": 35, "height": 36 }
+		},
+		"jacket2": {
+			"jacket2": { "x": 165.5, "y": -234.5, "width": 127, "height": 87 }
+		},
+		"head": {
+			"head": { "x": 165.5, "y": -176, "width": 135, "height": 196 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 128, "y": -214, "width": 14, "height": 16 }
+		},
+		"R_eyebrow": {
+			"R_eyebrow": { "x": 126, "y": -207.5, "width": 24, "height": 25 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 169.5, "y": -214, "width": 23, "height": 20 }
+		},
+		"L_eyebrow": {
+			"L_eyebrow": { "x": 166.5, "y": -210, "width": 31, "height": 24 }
+		},
+		"jacket": {
+			"jacket": { "x": 166, "y": -245, "width": 130, "height": 84 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 220, "y": -246, "width": 40, "height": 38 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 230, "y": -270.5, "width": 32, "height": 45 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

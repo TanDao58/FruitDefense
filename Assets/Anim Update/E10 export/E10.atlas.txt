@@ -1,0 +1,83 @@
+
+E10.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 156, 13
+  size: 14, 11
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 169, 13
+  size: 14, 11
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 5
+  size: 98, 121
+  orig: 100, 123
+  offset: 1, 1
+  index: -1
+Bomb
+  rotate: false
+  xy: 131, 60
+  size: 65, 66
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 177, 46
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 156, 2
+  size: 7, 9
+  orig: 9, 11
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 146, 29
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 146, 8
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 146, 8
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1
+Shadow
+  rotate: true
+  xy: 102, 54
+  size: 72, 27
+  orig: 74, 29
+  offset: 1, 1
+  index: -1
+trigger
+  rotate: true
+  xy: 102, 9
+  size: 43, 42
+  orig: 47, 46
+  offset: 2, 2
+  index: -1

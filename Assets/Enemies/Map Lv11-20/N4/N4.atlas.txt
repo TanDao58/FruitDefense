@@ -1,0 +1,111 @@
+
+N4.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Antenna
+  rotate: 270
+  xy: 2, 2
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 239
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+Drill_1
+  rotate: false
+  xy: 71, 43
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Drill_2
+  rotate: false
+  xy: 2, 36
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Drill_3
+  rotate: true
+  xy: 78, 70
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 104, 43
+  size: 22, 7
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Grip
+  rotate: false
+  xy: 59, 7
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1
+L_wheel
+  rotate: true
+  xy: 92, 18
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+R_hand_1
+  rotate: false
+  xy: 34, 37
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_hand_2
+  rotate: false
+  xy: 66, 18
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+R_hand_3
+  rotate: false
+  xy: 34, 15
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+R_wheel
+  rotate: false
+  xy: 2, 14
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 111
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 2, 151
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: false
+  xy: 2, 63
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1

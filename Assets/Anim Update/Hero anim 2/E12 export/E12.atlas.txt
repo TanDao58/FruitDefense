@@ -1,0 +1,90 @@
+
+E12.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 103, 17
+  size: 186, 109
+  orig: 188, 111
+  offset: 1, 1
+  index: -1
+E11
+  rotate: true
+  xy: 2, 14
+  size: 112, 99
+  orig: 112, 99
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 103, 2
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 33, 3
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 335, 4
+  size: 63, 52
+  orig: 92, 77
+  offset: 0, 6
+  index: -1
+Leaf_1
+  rotate: false
+  xy: 400, 25
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: false
+  xy: 400, 3
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+Leaf_3
+  rotate: false
+  xy: 464, 33
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 29, 10
+  orig: 31, 12
+  offset: 1, 1
+  index: -1
+Shadow
+  rotate: false
+  xy: 335, 58
+  size: 185, 68
+  orig: 187, 70
+  offset: 1, 1
+  index: -1
+Top
+  rotate: true
+  xy: 291, 50
+  size: 76, 42
+  orig: 78, 44
+  offset: 1, 1
+  index: -1
+trigger
+  rotate: true
+  xy: 291, 5
+  size: 43, 42
+  orig: 47, 46
+  offset: 2, 2
+  index: -1

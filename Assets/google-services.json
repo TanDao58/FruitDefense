@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "846332395452",
+    "firebase_url": "https://juicy-defend-14618-default-rtdb.firebaseio.com",
+    "project_id": "juicy-defend-14618",
+    "storage_bucket": "juicy-defend-14618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846332395452:android:dd1411e1b9085ba9c175b9",
+        "android_client_info": {
+          "package_name": "com.darksword.juicy.defend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846332395452-a4bvokt5r7891mtdt34uvl5n5s8edpiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnQWxH56rzI3pmvJzke9Pzzieo3AXov0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846332395452-a4bvokt5r7891mtdt34uvl5n5s8edpiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3245796729995506~6122900118"
+    }
+  ],
+  "configuration_version": "1"
+}

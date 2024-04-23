@@ -1,0 +1,48 @@
+
+N5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 180, 10
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+L_drill
+  rotate: false
+  xy: 147, 8
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+R_drill
+  rotate: false
+  xy: 147, 8
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 107, 2
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: true
+  xy: 147, 34
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "/e/ani _1/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_hand_2", "bone": "root", "attachment": "R_hand_2" },
+	{ "name": "R_hand_1", "bone": "root", "attachment": "R_hand_1" },
+	{ "name": "wing_2", "bone": "root", "attachment": "wing_2" },
+	{ "name": "horn_2", "bone": "root", "attachment": "horn_2" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "leaf", "bone": "root", "attachment": "leaf" },
+	{ "name": "horn_1", "bone": "root", "attachment": "horn_1" },
+	{ "name": "wing_1", "bone": "root", "attachment": "wing_1" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" }
+],
+"skins": {
+	"default": {
+		"R_hand_2": {
+			"R_hand_2": { "x": 253, "y": -230, "width": 38, "height": 18 }
+		},
+		"R_hand_1": {
+			"R_hand_1": { "x": 170.5, "y": -290.5, "width": 65, "height": 53 }
+		},
+		"wing_2": {
+			"wing_2": { "x": 206, "y": -50, "width": 94, "height": 96 }
+		},
+		"horn_2": {
+			"horn_2": { "x": 112.5, "y": -65.5, "width": 63, "height": 75 }
+		},
+		"body": {
+			"body": { "x": 179, "y": -188.5, "width": 330, "height": 225 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 40, "y": -149.5, "width": 10, "height": 13 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 103, "y": -151, "width": 16, "height": 14 }
+		},
+		"leaf": {
+			"leaf": { "x": 128, "y": -285.5, "width": 66, "height": 69 }
+		},
+		"horn_1": {
+			"horn_1": { "x": 210.5, "y": -111.5, "width": 97, "height": 85 }
+		},
+		"wing_1": {
+			"wing_1": { "x": 309, "y": -100.5, "width": 172, "height": 123 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 265, "y": -214, "width": 48, "height": 36 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 227, "y": -271, "width": 72, "height": 82 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

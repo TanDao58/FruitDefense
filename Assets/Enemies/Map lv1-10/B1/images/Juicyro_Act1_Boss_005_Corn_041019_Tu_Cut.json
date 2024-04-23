@@ -1,0 +1,132 @@
+{ "skeleton": { "images": "~/Google Drive/Enemies/ANIMATION - HUYNQ's TEAM/B_005/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_hand_2", "bone": "root", "attachment": "R_hand_2" },
+	{ "name": "R_hand_1", "bone": "root", "attachment": "R_hand_1" },
+	{ "name": "Cornhusks_4", "bone": "root", "attachment": "Cornhusks_4" },
+	{ "name": "Cornhusks_3", "bone": "root", "attachment": "Cornhusks_3" },
+	{ "name": "Hat_@", "bone": "root", "attachment": "Hat_@" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Mouth_A", "bone": "root", "attachment": "Mouth_A" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "Corn_bomb", "bone": "root", "attachment": "Corn_bomb" },
+	{ "name": "Hair_corn", "bone": "root", "attachment": "Hair_corn" },
+	{ "name": "Bandanas_1", "bone": "root", "attachment": "Bandanas_1" },
+	{ "name": "Cornhusks_2", "bone": "root", "attachment": "Cornhusks_2" },
+	{ "name": "Cornhusks_1", "bone": "root", "attachment": "Cornhusks_1" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" },
+	{ "name": "Cornhusks_7", "bone": "root", "attachment": "Cornhusks_7" },
+	{ "name": "Mouth_O", "bone": "root", "attachment": "Mouth_O" },
+	{ "name": "L_eye2", "bone": "root", "attachment": "L_eye2" },
+	{ "name": "R_eye2", "bone": "root", "attachment": "R_eye2" },
+	{ "name": "Cornhusks_6", "bone": "root", "attachment": "Cornhusks_6" },
+	{ "name": "Cornhusks_5", "bone": "root", "attachment": "Cornhusks_5" },
+	{ "name": "Popcorn_2", "bone": "root", "attachment": "Popcorn_2" },
+	{ "name": "Popcorn_1", "bone": "root", "attachment": "Popcorn_1" },
+	{ "name": "Corn_6", "bone": "root", "attachment": "Corn_6" },
+	{ "name": "Corn_5", "bone": "root", "attachment": "Corn_5" },
+	{ "name": "Corn_4", "bone": "root", "attachment": "Corn_4" },
+	{ "name": "Corn_3", "bone": "root", "attachment": "Corn_3" },
+	{ "name": "Corn_2", "bone": "root", "attachment": "Corn_2" },
+	{ "name": "Corn_1", "bone": "root", "attachment": "Corn_1" }
+],
+"skins": {
+	"default": {
+		"R_hand_2": {
+			"R_hand_2": { "x": 490.5, "y": -308.5, "width": 45, "height": 81 }
+		},
+		"R_hand_1": {
+			"R_hand_1": { "x": 469, "y": -258, "width": 48, "height": 36 }
+		},
+		"Cornhusks_4": {
+			"Cornhusks_4": { "x": 637.5, "y": -404, "width": 191, "height": 176 }
+		},
+		"Cornhusks_3": {
+			"Cornhusks_3": { "x": 509, "y": -401.5, "width": 190, "height": 201 }
+		},
+		"Hat_@": {
+			"Hat_@": { "x": 571.5, "y": -306, "width": 137, "height": 52 }
+		},
+		"Body": {
+			"Body": { "x": 572.5, "y": -377.5, "width": 133, "height": 247 }
+		},
+		"Mouth_A": {
+			"Mouth_A": { "x": 557.5, "y": -346.5, "width": 43, "height": 61 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 573, "y": -309.5, "width": 16, "height": 21 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 535, "y": -312.5, "width": 16, "height": 23 }
+		},
+		"Corn_bomb": {
+			"Corn_bomb": { "x": 569.5, "y": -415.5, "width": 171, "height": 111 }
+		},
+		"Hair_corn": {
+			"Hair_corn": { "x": 571.5, "y": -234, "width": 97, "height": 58 }
+		},
+		"Bandanas_1": {
+			"Bandanas_1": { "x": 573.5, "y": -279.5, "width": 143, "height": 71 }
+		},
+		"Cornhusks_2": {
+			"Cornhusks_2": { "x": 507.5, "y": -412, "width": 191, "height": 202 }
+		},
+		"Cornhusks_1": {
+			"Cornhusks_1": { "x": 637.5, "y": -410.5, "width": 193, "height": 183 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 641.5, "y": -338.5, "width": 47, "height": 33 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 666, "y": -314, "width": 40, "height": 30 }
+		},
+		"Cornhusks_7": {
+			"Cornhusks_7": { "x": 193, "y": -342, "width": 86, "height": 222 }
+		},
+		"Mouth_O": {
+			"Mouth_O": { "x": 221.5, "y": -344, "width": 47, "height": 30 }
+		},
+		"L_eye2": {
+			"L_eye2": { "x": 248, "y": -316.5, "width": 22, "height": 19 }
+		},
+		"R_eye2": {
+			"R_eye2": { "x": 196.5, "y": -318, "width": 19, "height": 18 }
+		},
+		"Cornhusks_6": {
+			"Cornhusks_6": { "x": 209, "y": -366, "width": 120, "height": 270 }
+		},
+		"Cornhusks_5": {
+			"Cornhusks_5": { "x": 259.5, "y": -368.5, "width": 133, "height": 271 }
+		},
+		"Popcorn_2": {
+			"Popcorn_2": { "x": 722.5, "y": -169, "width": 107, "height": 162 }
+		},
+		"Popcorn_1": {
+			"Popcorn_1": { "x": 786.5, "y": -322.5, "width": 83, "height": 69 }
+		},
+		"Corn_6": {
+			"Corn_6": { "x": 394.5, "y": -427.5, "width": 49, "height": 47 }
+		},
+		"Corn_5": {
+			"Corn_5": { "x": 401, "y": -297, "width": 40, "height": 36 }
+		},
+		"Corn_4": {
+			"Corn_4": { "x": 751.5, "y": -394, "width": 53, "height": 52 }
+		},
+		"Corn_3": {
+			"Corn_3": { "x": 750, "y": -261.5, "width": 32, "height": 43 }
+		},
+		"Corn_2": {
+			"Corn_2": { "x": 410.5, "y": -229.5, "width": 47, "height": 43 }
+		},
+		"Corn_1": {
+			"Corn_1": { "x": 485, "y": -188.5, "width": 38, "height": 51 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

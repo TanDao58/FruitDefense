@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: New Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: New Table
+  m_TableCollectionNameGuidString: faa8c9d9dab87d44881bb09b58e1e0a8
+  m_Entries:
+  - m_Id: 51393966080
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 561920454656
+    m_Key: Choose Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 672595554304
+    m_Key: Welcome Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740182568960
+    m_Key: 'Get Gem
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862740131840
+    m_Key: Day 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 910093824000
+    m_Key: Daily Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 966033256448
+    m_Key: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 998048378880
+    m_Key: 'Level Up
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344816656384
+    m_Key: REPLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407701856256
+    m_Key: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473443377152
+    m_Key: Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542204796928
+    m_Key: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603957534720
+    m_Key: Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706915115008
+    m_Key: Gem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759364886528
+    m_Key: Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1852021256192
+    m_Key: Remove Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1954408411136
+    m_Key: 'Unlock All
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2074046738432
+    m_Key: Wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2121631117312
+    m_Key: Premium Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186705743872
+    m_Key: Visit Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2262547148800
+    m_Key: Not enough energy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2351009214464
+    m_Key: Watch Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2438795997184
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607667064832
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689548267520
+    m_Key: Team Deploy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2766400499712
+    m_Key: You haven't choose any Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2831672258560
+    m_Key: Lucky wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2888991617024
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987993968640
+    m_Key: Daily Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159138349056
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324452646912
+    m_Key: SPIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3428584632320
+    m_Key: Enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3496003874816
+    m_Key: Try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3564098400256
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615910637568
+    m_Key: Unlock All Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3720281698304
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3792365006848
+    m_Key: Remove ad included
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3892034252800
+    m_Key: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4554994331648
+    m_Key: Countinue ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719696261120
+    m_Key: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792186417152
+    m_Key: See more powerful hero in shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5046793252864
+    m_Key: PLAY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5107434500096
+    m_Key: Reward x2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5145455865856
+    m_Key: 'Enemy Alive: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5250099556352
+    m_Key: NEXT LEVEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5373688918016
+    m_Key: MAIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6052692209664
+    m_Key: Click on the Hero Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108157685760
+    m_Key: Drag the card to or click on deploy zone to summon the hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6447275552768
+    m_Key: A great fan of Afro-samurai. Attack with a combo of 3 hits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586476113920
+    m_Key: Always come in pairs. The small one will get its revenge once the big
+      one falls.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6856320856064
+    m_Key: Pop the enemy to death with a corn slingshot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6948016730112
+    m_Key: Shall heal the one in need with its mighty grapes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7044385058816
+    m_Key: This pomegranate goes Pow. Create an explosion with its mighty stomp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7207719645184
+    m_Key: 'Big fat Durian warlord. Summon its loyal army of 4 small Durian warriors. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7351416500224
+    m_Key: Take off part of its shell as a mighty shield. Might go well with The
+      Grape One.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7432827940864
+    m_Key: This Avocado go Ka-Boom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7506928709632
+    m_Key: 'A mama tomato. When dead will explose and give birth to 3 baby tomato '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7711233257472
+    m_Key: A living lemon battery. Stun enemy with a lightning AOE attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7853088813056
+    m_Key: Pineapple whose arrow can penatrate enemy's thick metal armor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967253573632
+    m_Key: A Mystical fruit that can turn into any fruit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8042860097536
+    m_Key: Can strike with its little spike hand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8143305289728
+    m_Key: Freezing on touch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8217267646464
+    m_Key: Have 50% chance of deflecting a bullet hit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8344187285504
+    m_Key: Deflecting a bullet hit & push back your hero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8568565772288
+    m_Key: Will teleport a short distance if taking first damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8695716098048
+    m_Key: Danger from above that only the shooter can take care of.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8816361058304
+    m_Key: 'Can only focus on one target at a time. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8895864090624
+    m_Key: It bullet can go through and deal damage to anything in its path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9024159461376
+    m_Key: It bullet can freeze anything in an area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9092786663424
+    m_Key: Can control other minds with its powerful brain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215042236416
+    m_Key: Evil Flying Object.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9321992794112
+    m_Key: Its powerful strike can destroy world. If fallen, a Pain Wheel will eject
+      from its head.
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701174756249

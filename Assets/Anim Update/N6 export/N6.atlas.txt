@@ -1,0 +1,62 @@
+
+N6.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 22
+  size: 103, 83
+  orig: 103, 83
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 34, 13
+  size: 22, 7
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Jet
+  rotate: false
+  xy: 87, 7
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+L_gun
+  rotate: false
+  xy: 87, 42
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+R_gun
+  rotate: false
+  xy: 87, 42
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 5
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 166, 70
+  size: 55, 25
+  orig: 57, 25
+  offset: 1, 0
+  index: -1
+Reddot
+  rotate: false
+  xy: 165, 2
+  size: 46, 38
+  orig: 47, 41
+  offset: 0, 3
+  index: -1

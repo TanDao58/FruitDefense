@@ -1,0 +1,104 @@
+
+E4.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 96, 59
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 66, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Ball_1
+  rotate: true
+  xy: 2, 31
+  size: 27, 34
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+Ball_2
+  rotate: true
+  xy: 2, 4
+  size: 25, 33
+  orig: 27, 35
+  offset: 1, 1
+  index: -1
+Ball_4
+  rotate: true
+  xy: 2, 4
+  size: 25, 33
+  orig: 27, 35
+  offset: 1, 1
+  index: -1
+Ball_3
+  rotate: false
+  xy: 70, 90
+  size: 28, 35
+  orig: 29, 35
+  offset: 1, 0
+  index: -1
+Ball_5
+  rotate: false
+  xy: 38, 25
+  size: 26, 33
+  orig: 28, 35
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 60
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 56, 15
+  size: 6, 8
+  orig: 8, 10
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 56, 5
+  size: 6, 8
+  orig: 8, 10
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 100, 92
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 37, 7
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 94, 10
+  size: 15, 19
+  orig: 16, 19
+  offset: 1, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 70, 27
+  size: 61, 24
+  orig: 63, 26
+  offset: 1, 1
+  index: -1

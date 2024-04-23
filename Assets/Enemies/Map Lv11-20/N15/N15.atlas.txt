@@ -1,0 +1,41 @@
+
+N15.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 42
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+Drill
+  rotate: false
+  xy: 115, 23
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 108, 14
+  size: 22, 7
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: true
+  xy: 173, 13
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1

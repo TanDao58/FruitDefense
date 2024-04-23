@@ -1,0 +1,90 @@
+
+E17.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 163, 22
+  size: 26, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 163, 52
+  size: 74, 125
+  orig: 76, 127
+  offset: 1, 1
+  index: -1
+Arrow
+  rotate: false
+  xy: 290, 5
+  size: 82, 66
+  orig: 84, 68
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 5
+  size: 159, 121
+  orig: 161, 123
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 191, 25
+  size: 9, 12
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 199, 12
+  size: 7, 11
+  orig: 9, 13
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: true
+  xy: 469, 36
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 163, 9
+  size: 11, 34
+  orig: 13, 36
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 191, 39
+  size: 11, 34
+  orig: 13, 36
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: false
+  xy: 163, 2
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+Shadow
+  rotate: false
+  xy: 290, 73
+  size: 143, 53
+  orig: 145, 55
+  offset: 1, 1
+  index: -1
+String
+  rotate: true
+  xy: 374, 21
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1

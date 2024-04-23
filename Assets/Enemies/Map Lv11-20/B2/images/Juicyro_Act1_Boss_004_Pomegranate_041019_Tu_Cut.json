@@ -1,0 +1,168 @@
+{ "skeleton": { "images": "~/Google Drive/Enemies/ANIMATION - HUYNQ's TEAM/B_004/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_hand", "bone": "root", "attachment": "R_hand" },
+	{ "name": "head_king", "bone": "root", "attachment": "head_king" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "Mount", "bone": "root", "attachment": "Mount" },
+	{ "name": "Shadow_beard", "bone": "root", "attachment": "Shadow_beard" },
+	{ "name": "Beard", "bone": "root", "attachment": "Beard" },
+	{ "name": "Stemleaf_2", "bone": "root", "attachment": "Stemleaf_2" },
+	{ "name": "Stemleaf_1", "bone": "root", "attachment": "Stemleaf_1" },
+	{ "name": "Cloak_1", "bone": "root", "attachment": "Cloak_1" },
+	{ "name": "Gad_8", "bone": "root", "attachment": "Gad_8" },
+	{ "name": "Gad_7", "bone": "root", "attachment": "Gad_7" },
+	{ "name": "Gad_6", "bone": "root", "attachment": "Gad_6" },
+	{ "name": "Gad_5", "bone": "root", "attachment": "Gad_5" },
+	{ "name": "Shield_6", "bone": "root", "attachment": "Shield_6" },
+	{ "name": "Gad_4", "bone": "root", "attachment": "Gad_4" },
+	{ "name": "Sodier_4", "bone": "root", "attachment": "Sodier_4" },
+	{ "name": "Seed_4", "bone": "root", "attachment": "Seed_4" },
+	{ "name": "Sod4_L_leg", "bone": "root", "attachment": "Sod4_L_leg" },
+	{ "name": "Sod4_R_leg", "bone": "root", "attachment": "Sod4_R_leg" },
+	{ "name": "Shiled_5", "bone": "root", "attachment": "Shiled_5" },
+	{ "name": "Gad_3", "bone": "root", "attachment": "Gad_3" },
+	{ "name": "Sodier_3", "bone": "root", "attachment": "Sodier_3" },
+	{ "name": "Seed_3", "bone": "root", "attachment": "Seed_3" },
+	{ "name": "Sod3_L_leg", "bone": "root", "attachment": "Sod3_L_leg" },
+	{ "name": "Sod3_R_leg", "bone": "root", "attachment": "Sod3_R_leg" },
+	{ "name": "Shield_4", "bone": "root", "attachment": "Shield_4" },
+	{ "name": "Gad_2", "bone": "root", "attachment": "Gad_2" },
+	{ "name": "Sodier_2", "bone": "root", "attachment": "Sodier_2" },
+	{ "name": "Seed_2", "bone": "root", "attachment": "Seed_2" },
+	{ "name": "Sod2_L_leg", "bone": "root", "attachment": "Sod2_L_leg" },
+	{ "name": "Sod2_R_leg", "bone": "root", "attachment": "Sod2_R_leg" },
+	{ "name": "Shield_3", "bone": "root", "attachment": "Shield_3" },
+	{ "name": "Gad_1", "bone": "root", "attachment": "Gad_1" },
+	{ "name": "Sodier_1", "bone": "root", "attachment": "Sodier_1" },
+	{ "name": "Sod1_L_leg", "bone": "root", "attachment": "Sod1_L_leg" },
+	{ "name": "Sod1_R_leg", "bone": "root", "attachment": "Sod1_R_leg" },
+	{ "name": "Shield_1", "bone": "root", "attachment": "Shield_1" },
+	{ "name": "Shield_2", "bone": "root", "attachment": "Shield_2" }
+],
+"skins": {
+	"default": {
+		"R_hand": {
+			"R_hand": { "x": 85, "y": -81, "width": 132, "height": 142 }
+		},
+		"head_king": {
+			"head_king": { "x": 196.5, "y": -164, "width": 193, "height": 206 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 203.5, "y": -149.5, "width": 23, "height": 19 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 172, "y": -147, "width": 24, "height": 20 }
+		},
+		"Mount": {
+			"Mount": { "x": 196.5, "y": -171.5, "width": 65, "height": 21 }
+		},
+		"Shadow_beard": {
+			"Shadow_beard": { "x": 184, "y": -179, "width": 42, "height": 34 }
+		},
+		"Beard": {
+			"Beard": { "x": 183.5, "y": -174.5, "width": 47, "height": 35 }
+		},
+		"Stemleaf_2": {
+			"Stemleaf_2": { "x": 174, "y": -115.5, "width": 24, "height": 35 }
+		},
+		"Stemleaf_1": {
+			"Stemleaf_1": { "x": 232, "y": -125, "width": 58, "height": 40 }
+		},
+		"Cloak_1": {
+			"Cloak_1": { "x": 291, "y": -209.5, "width": 140, "height": 137 }
+		},
+		"Gad_8": {
+			"Gad_8": { "x": 54, "y": -203, "width": 56, "height": 66 }
+		},
+		"Gad_7": {
+			"Gad_7": { "x": 35, "y": -253.5, "width": 52, "height": 21 }
+		},
+		"Gad_6": {
+			"Gad_6": { "x": 93, "y": -185.5, "width": 50, "height": 67 }
+		},
+		"Gad_5": {
+			"Gad_5": { "x": 356.5, "y": -248.5, "width": 61, "height": 23 }
+		},
+		"Shield_6": {
+			"Shield_6": { "x": 319, "y": -252, "width": 44, "height": 64 }
+		},
+		"Gad_4": {
+			"Gad_4": { "x": 328.5, "y": -207, "width": 67, "height": 84 }
+		},
+		"Sodier_4": {
+			"Sodier_4": { "x": 286, "y": -257, "width": 48, "height": 68 }
+		},
+		"Seed_4": {
+			"Seed_4": { "x": 284, "y": -258.5, "width": 24, "height": 41 }
+		},
+		"Sod4_L_leg": {
+			"Sod4_L_leg": { "x": 300, "y": -294, "width": 14, "height": 24 }
+		},
+		"Sod4_R_leg": {
+			"Sod4_R_leg": { "x": 278.5, "y": -296.5, "width": 13, "height": 27 }
+		},
+		"Shiled_5": {
+			"Shiled_5": { "x": 291.5, "y": -252.5, "width": 49, "height": 89 }
+		},
+		"Gad_3": {
+			"Gad_3": { "x": 288, "y": -284, "width": 78, "height": 48 }
+		},
+		"Sodier_3": {
+			"Sodier_3": { "x": 105, "y": -245, "width": 62, "height": 78 }
+		},
+		"Seed_3": {
+			"Seed_3": { "x": 107, "y": -245, "width": 34, "height": 52 }
+		},
+		"Sod3_L_leg": {
+			"Sod3_L_leg": { "x": 109, "y": -290, "width": 10, "height": 28 }
+		},
+		"Sod3_R_leg": {
+			"Sod3_R_leg": { "x": 94, "y": -289.5, "width": 12, "height": 27 }
+		},
+		"Shield_4": {
+			"Shield_4": { "x": 74.5, "y": -253.5, "width": 61, "height": 79 }
+		},
+		"Gad_2": {
+			"Gad_2": { "x": 73.5, "y": -290.5, "width": 103, "height": 47 }
+		},
+		"Sodier_2": {
+			"Sodier_2": { "x": 160, "y": -263, "width": 54, "height": 68 }
+		},
+		"Seed_2": {
+			"Seed_2": { "x": 154, "y": -268, "width": 28, "height": 42 }
+		},
+		"Sod2_L_leg": {
+			"Sod2_L_leg": { "x": 169.5, "y": -300, "width": 15, "height": 24 }
+		},
+		"Sod2_R_leg": {
+			"Sod2_R_leg": { "x": 144, "y": -300, "width": 14, "height": 26 }
+		},
+		"Shield_3": {
+			"Shield_3": { "x": 132, "y": -271, "width": 44, "height": 76 }
+		},
+		"Gad_1": {
+			"Gad_1": { "x": 143.5, "y": -294, "width": 77, "height": 52 }
+		},
+		"Sodier_1": {
+			"Sodier_1": { "x": 221, "y": -264.5, "width": 52, "height": 67 }
+		},
+		"Sod1_L_leg": {
+			"Sod1_L_leg": { "x": 237, "y": -298, "width": 12, "height": 26 }
+		},
+		"Sod1_R_leg": {
+			"Sod1_R_leg": { "x": 209, "y": -300.5, "width": 12, "height": 23 }
+		},
+		"Shield_1": {
+			"Shield_1": { "x": 196.5, "y": -270, "width": 51, "height": 74 }
+		},
+		"Shield_2": {
+			"Shield_2": { "x": 240, "y": -264.5, "width": 54, "height": 77 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

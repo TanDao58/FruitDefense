@@ -1,0 +1,88 @@
+{ "skeleton": { "images": "~/Desktop/E_003/E_003/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "root" },
+	{ "name": "rope", "bone": "root", "attachment": "rope" },
+	{ "name": "gun", "bone": "root", "attachment": "gun" },
+	{ "name": "L_leg_1", "bone": "root", "attachment": "L_leg_1" },
+	{ "name": "L_leg_2", "bone": "root", "attachment": "L_leg_2" },
+	{ "name": "L_leg_3", "bone": "root", "attachment": "L_leg_3" },
+	{ "name": "R_leg_1", "bone": "root", "attachment": "R_leg_1" },
+	{ "name": "R_leg_2", "bone": "root", "attachment": "R_leg_2" },
+	{ "name": "R_leg_3", "bone": "root", "attachment": "R_leg_3" },
+	{ "name": "peel", "bone": "root", "attachment": "peel" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "mount", "bone": "root", "attachment": "mount" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "R_eyebrow", "bone": "root", "attachment": "R_eyebrow" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "L_eyebrow", "bone": "root", "attachment": "L_eyebrow" },
+	{ "name": "petiole", "bone": "root", "attachment": "petiole" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" }
+],
+"skins": {
+	"default": {
+		"Layer 1": {
+			"Layer 1": { "x": 100, "y": -75.5, "width": 202, "height": 153 }
+		},
+		"rope": {
+			"rope": { "x": 184, "y": -22, "width": 34, "height": 42 }
+		},
+		"gun": {
+			"gun": { "x": 95.5, "y": -46.5, "width": 169, "height": 67 }
+		},
+		"L_leg_1": {
+			"L_leg_1": { "x": 89, "y": -121.5, "width": 10, "height": 15 }
+		},
+		"L_leg_2": {
+			"L_leg_2": { "x": 88, "y": -130, "width": 10, "height": 16 }
+		},
+		"L_leg_3": {
+			"L_leg_3": { "x": 84.5, "y": -133.5, "width": 13, "height": 9 }
+		},
+		"R_leg_1": {
+			"R_leg_1": { "x": 118, "y": -121.5, "width": 10, "height": 15 }
+		},
+		"R_leg_2": {
+			"R_leg_2": { "x": 117, "y": -131, "width": 10, "height": 16 }
+		},
+		"R_leg_3": {
+			"R_leg_3": { "x": 118.5, "y": -134, "width": 13, "height": 10 }
+		},
+		"peel": {
+			"peel": { "x": 58.5, "y": -79.5, "width": 53, "height": 55 }
+		},
+		"head": {
+			"head": { "x": 110.5, "y": -81.5, "width": 111, "height": 101 }
+		},
+		"mount": {
+			"mount": { "x": 83, "y": -96, "width": 16, "height": 12 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 71, "y": -85.5, "width": 16, "height": 17 }
+		},
+		"R_eyebrow": {
+			"R_eyebrow": { "x": 70.5, "y": -78.5, "width": 21, "height": 21 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 104, "y": -91.5, "width": 22, "height": 15 }
+		},
+		"L_eyebrow": {
+			"L_eyebrow": { "x": 106, "y": -83, "width": 34, "height": 18 }
+		},
+		"petiole": {
+			"petiole": { "x": 105.5, "y": -37.5, "width": 25, "height": 21 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 137.5, "y": -94, "width": 37, "height": 42 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 149.5, "y": -116.5, "width": 23, "height": 37 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

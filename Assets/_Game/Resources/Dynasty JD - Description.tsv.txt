@@ -1,0 +1,20 @@
+ID	Name	Description	Rank
+E0	Apple Samurai	A great fan of Afro-samurai. Attack with a combo of 3 hits.	SR
+E1	Mini Pears		C
+E2	Come in Pears	Always come in pairs. The small one will get its revenge once the big one falls.	S
+E3	Pop-Corn	Pop the enemy to death with a corn slingshot.	C
+E4	The Grape One	Shall heal the one in need with its mighty grapes.	R
+E5	Pow-Granate	This pomegranate goes Pow. Has a change to create an explosion with its mighty stomp.	SSR
+E6			
+E7	Durian Minon		C
+E8	Durian Gang	Big fat Durian warlord. Summon its loyal army of 4 small Durian warriors. 	SR
+E9	Tanky Melon	Take off part of its shell as a mighty shield. Might go well with The Grape One.	C
+E10	Avo Ka-Boom	This Avocado goes Ka-Boom.	SR
+E11			
+E12	To-Mama Mine	A mama tomato. When dead will explose and give birth to 3 baby tomato 	S
+E13			
+E14			
+E15	Lemon-Ray	Be ignored by the enemy because it stuns them with a lightning AOE attack.	R
+E16			
+E17	Penatrate-Apple	Pineapple whose arrow can penatrate enemy's thick metal armor.	SSR
+E18	Big Blue	A Mystical fruit that can turn into any fruit.	SSR

@@ -1,0 +1,41 @@
+
+N11.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dish
+  rotate: false
+  xy: 2, 21
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 28, 12
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 104, 5
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+L_armor
+  rotate: false
+  xy: 2, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+R_armor
+  rotate: false
+  xy: 15, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1

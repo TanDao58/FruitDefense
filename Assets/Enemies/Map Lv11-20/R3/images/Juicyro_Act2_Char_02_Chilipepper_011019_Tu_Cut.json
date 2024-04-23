@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "/e/new/game_juicyro/E_204/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "chilipeper", "bone": "root", "attachment": "chilipeper" },
+	{ "name": "eyetea", "bone": "root", "attachment": "eyetea" },
+	{ "name": "eyes", "bone": "root", "attachment": "eyes" },
+	{ "name": "mark_2", "bone": "root", "attachment": "mark_2" },
+	{ "name": "tube", "bone": "root", "attachment": "tube" },
+	{ "name": "R_leg_1", "bone": "root", "attachment": "R_leg_1" },
+	{ "name": "R_leg_2", "bone": "root", "attachment": "R_leg_2" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "petiole", "bone": "root", "attachment": "petiole" },
+	{ "name": "rope", "bone": "root", "attachment": "rope" },
+	{ "name": "mark_1", "bone": "root", "attachment": "mark_1" },
+	{ "name": "R_eye", "bone": "root", "attachment": "R_eye" },
+	{ "name": "L_eye", "bone": "root", "attachment": "L_eye" },
+	{ "name": "L_leg_1", "bone": "root", "attachment": "L_leg_1" },
+	{ "name": "L_leg_2", "bone": "root", "attachment": "L_leg_2" },
+	{ "name": "R_hand_2", "bone": "root", "attachment": "R_hand_2" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "R_hand_1", "bone": "root", "attachment": "R_hand_1" },
+	{ "name": "L_hand_1", "bone": "root", "attachment": "L_hand_1" },
+	{ "name": "L_hand_2", "bone": "root", "attachment": "L_hand_2" }
+],
+"skins": {
+	"default": {
+		"chilipeper": {
+			"chilipeper": { "x": 251, "y": -102.5, "width": 64, "height": 119 }
+		},
+		"eyetea": {
+			"eyetea": { "x": 261.5, "y": -96.5, "width": 57, "height": 45 }
+		},
+		"eyes": {
+			"eyes": { "x": 260.5, "y": -89, "width": 41, "height": 18 }
+		},
+		"mark_2": {
+			"mark_2": { "x": 257.5, "y": -109, "width": 29, "height": 32 }
+		},
+		"tube": {
+			"tube": { "x": 240.5, "y": -148.5, "width": 63, "height": 71 }
+		},
+		"R_leg_1": {
+			"R_leg_1": { "x": 160, "y": -184.5, "width": 12, "height": 19 }
+		},
+		"R_leg_2": {
+			"R_leg_2": { "x": 162, "y": -196, "width": 16, "height": 18 }
+		},
+		"head": {
+			"head": { "x": 184.5, "y": -130.5, "width": 121, "height": 111 }
+		},
+		"petiole": {
+			"petiole": { "x": 192.5, "y": -65, "width": 47, "height": 46 }
+		},
+		"rope": {
+			"rope": { "x": 240, "y": -126.5, "width": 50, "height": 21 }
+		},
+		"mark_1": {
+			"mark_1": { "x": 170.5, "y": -125.5, "width": 111, "height": 81 }
+		},
+		"R_eye": {
+			"R_eye": { "x": 130, "y": -127, "width": 8, "height": 12 }
+		},
+		"L_eye": {
+			"L_eye": { "x": 176, "y": -129, "width": 10, "height": 14 }
+		},
+		"L_leg_1": {
+			"L_leg_1": { "x": 202, "y": -185.5, "width": 12, "height": 19 }
+		},
+		"L_leg_2": {
+			"L_leg_2": { "x": 204, "y": -197, "width": 16, "height": 18 }
+		},
+		"R_hand_2": {
+			"R_hand_2": { "x": 114, "y": -188.5, "width": 32, "height": 19 }
+		},
+		"weapon": {
+			"weapon": { "x": 133, "y": -173, "width": 164, "height": 54 }
+		},
+		"R_hand_1": {
+			"R_hand_1": { "x": 95, "y": -188.5, "width": 28, "height": 21 }
+		},
+		"L_hand_1": {
+			"L_hand_1": { "x": 222, "y": -153.5, "width": 24, "height": 23 }
+		},
+		"L_hand_2": {
+			"L_hand_2": { "x": 217, "y": -170.5, "width": 38, "height": 39 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

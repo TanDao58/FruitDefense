@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue-fire-ball_00000
+  rotate: false
+  xy: 313, 13
+  size: 101, 217
+  orig: 128, 256
+  offset: 17, 17
+  index: -1
+Blue-fire-ball_00001
+  rotate: false
+  xy: 208, 14
+  size: 103, 216
+  orig: 128, 256
+  offset: 17, 15
+  index: -1
+Blue-fire-ball_00002
+  rotate: false
+  xy: 416, 20
+  size: 104, 210
+  orig: 128, 256
+  offset: 18, 17
+  index: -1
+Blue-fire-ball_00003
+  rotate: false
+  xy: 104, 9
+  size: 102, 221
+  orig: 128, 256
+  offset: 18, 16
+  index: -1
+Blue-fire-ball_00004
+  rotate: false
+  xy: 2, 2
+  size: 100, 228
+  orig: 128, 256
+  offset: 19, 17
+  index: -1
+Blue-fire-ball_00005
+  rotate: false
+  xy: 623, 25
+  size: 99, 205
+  orig: 128, 256
+  offset: 20, 17
+  index: -1
+Blue-fire-ball_00006
+  rotate: false
+  xy: 522, 23
+  size: 99, 207
+  orig: 128, 256
+  offset: 20, 18
+  index: -1
